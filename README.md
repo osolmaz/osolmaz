@@ -11,6 +11,10 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🐴 [**Horse.fit**](https://horse.fit): AI personal trainer (currently counts push-ups and lets you challenge your friends
 - 😎 [**solmaz.io**](https://solmaz.io): My blog
 
+## Agents
+
+- 🍌 [**Bob**](https://github.com/dutifulbob): My personal agent, helping me out in many tasks
+
 ## Open source projects:
 
 - 🧹 [**Janitr.AI**](https://janitr.ai): Smol local models to filter out internet content for you
