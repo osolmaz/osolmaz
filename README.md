@@ -18,7 +18,10 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 📄 [**JSON-DOC**](https://github.com/textcortex/JSON-DOC): An open block-based document file format based on Notion
 - 📄 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers
 - 📟 [**acpx**](https://github.com/janitrai/acpx): A headless CLI client for statful [ACP](https://agentclientprotocol.com/) sessions
+- 🥔 [**Alman.AI**](https://alman.ai): Alman, a Simplified Dialect of the German Language
 - 🎤 [**Manim Voiceover**](https://github.com/manimcommunity/manim-voiceover): A plugin for programmatic voiceovers in [Manim](https://manim.community) videos
+- ✨ [**SimpleDoc**](https://github.com/osolmaz/SimpleDoc): Lightweight standard for organizing Markdown documentation in codebases
+- ⛳️ [**skillflag**](https://github.com/osolmaz/skillflag): Simple CLI flag convention for listing and installing agent skills
 
 This list is probably not up-to-date, make sure to follow me on X for the latest info
 
