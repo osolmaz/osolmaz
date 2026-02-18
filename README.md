@@ -16,7 +16,7 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🧹 [**Janitr.AI**](https://janitr.ai): Smol local models to filter out internet content for you
 - 🍨 [**Scoop**](https://github.com/janitrai/scoop): Open personal news intelligence platform for OpenClaw
 - 📄 [**JSON-DOC**](https://github.com/textcortex/JSON-DOC): Open block-based document file format based on Notion
-- 📄 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers
+- 🍹 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers
 - 📟 [**acpx**](https://github.com/janitrai/acpx): Headless CLI client for statful [ACP](https://agentclientprotocol.com/) sessions
 - 🥔 [**Alman.AI**](https://alman.ai): Alman, a Simplified Dialect of the German Language
 - 🎤 [**Manim Voiceover**](https://github.com/manimcommunity/manim-voiceover): Plugin for programmatic voiceovers in [Manim](https://manim.community) videos
