@@ -38,6 +38,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🎤 [**Manim Voiceover**](https://github.com/manimcommunity/manim-voiceover): Plugin for programmatic voiceovers in [Manim](https://manim.community) videos
 - 🧠 [**icortex**](https://github.com/textcortex/icortex): A Jupyter notebook coding agent that I created 2 months before ChatGPT existed, using `code-davinci-002`
 - 📦 [**Claude Code Sandbox**](https://github.com/textcortex/claude-code-sandbox): A vibe-coded PoC for running Claude Code locally in a sandbox, and controlling through a browser UI
-<!-- sync:projects-oss-unmaintained:start -->
+<!-- sync:projects-oss-unmaintained:end -->
 
 This list is probably not up-to-date, make sure to follow me on X for the latest info
