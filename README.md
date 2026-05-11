@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-It's Onur, Founding Engineer at [TextCortex](https://textcortex.com), maintainer at [OpenClaw](https://openclaw.ai).
+It's Onur. I work at [Hugging Face](https://huggingface.co) 🤗, where my current focus is making [OpenClaw](https://openclaw.ai) 🦞 and other agent harnesses work great with local models.
 
-I am addicted to agents and I have too many side projects. You might get an idea of me if you follow me on [X:onusoz](https://x.com/onusoz).
+I am addicted to agents and I have too many side projects. You might get an idea of me if you follow me on [X:onusoz](https://x.com/onusoz) or [Hugging Face: osolmaz](https://huggingface.co/osolmaz).
 
 
 ### Personal/closed source projects
