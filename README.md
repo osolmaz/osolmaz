@@ -16,7 +16,7 @@ I am addicted to agents and I have too many side projects. You might get an idea
 ### Agents
 
 <!-- sync:agents:start -->
-- 🍌 [**Bob**](https://github.com/dutifulbob): My personal agent, helping me out in many tasks
+- 🫡 [**Bob**](https://github.com/dutifulbob): My personal agent, helping me out in many tasks
 <!-- sync:agents:end -->
 
 ### Open source projects (actively maintained):
