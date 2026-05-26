@@ -22,12 +22,12 @@ I am addicted to agents and I have too many side projects. You might get an idea
 ### Open source projects (actively maintained):
 
 <!-- sync:projects-oss-maintained:start -->
-- 🧹 [**Janitr.AI**](https://janitr.ai): Smol local models to filter out internet content for you
+- 📟 [**acpx**](https://github.com/openclaw/acpx): Headless CLI client for statful [ACP](https://agentclientprotocol.com/) sessions
+- 🦞 [**OpenClaw**](https://github.com/openclaw/openclaw): I'm a maintainer of various features in the biggest personal agent project
 - 🍨 [**Scoop**](https://github.com/janitrai/scoop): Open personal news intelligence platform for OpenClaw
 - 📄 [**JSON-DOC**](https://github.com/textcortex/JSON-DOC): Open block-based document file format based on Notion
 - 🍹 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers
-- 🦞 [**OpenClaw**](https://github.com/openclaw/openclaw): I'm a maintainer of various features in the biggest personal agent project
-- 📟 [**acpx**](https://github.com/openclaw/acpx): Headless CLI client for statful [ACP](https://agentclientprotocol.com/) sessions
+- 🧹 [**Janitr**](https://github.com/dutifuldev/janitr): Smol local models to filter out internet content for you
 - 🥔 [**Alman.AI**](https://alman.ai): Alman, a Simplified Dialect of the German Language
 - ✨ [**SimpleDoc**](https://github.com/osolmaz/SimpleDoc): Lightweight standard for organizing Markdown documentation in codebases
 - ⛳️ [**skillflag**](https://github.com/osolmaz/skillflag): Simple CLI flag convention for listing and installing agent skills
