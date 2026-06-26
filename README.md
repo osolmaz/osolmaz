@@ -31,12 +31,25 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🥔 [**Alman.AI**](https://alman.ai): Alman, a Simplified Dialect of the German Language
 - ✨ [**SimpleDoc**](https://github.com/osolmaz/SimpleDoc): Lightweight standard for organizing Markdown documentation in codebases
 - ⛳️ [**skillflag**](https://github.com/osolmaz/skillflag): Simple CLI flag convention for listing and installing agent skills
+- 🖥️ [**localpi**](https://github.com/dutifuldev/localpi): Local Pi launcher for OpenAI-compatible local models
+- 🏭 [**pi-factory**](https://github.com/dutifuldev/pi-factory): Declarative Pi application bundles
+- 📈 [**localperf**](https://github.com/dutifuldev/localperf): Local inference performance benchmarking and profiling
+- 🧭 [**ghzinga**](https://github.com/dutifuldev/ghzinga): Clickable terminal UI for viewing a GitHub issue or pull request
+- 🔨 [**Slophammer**](https://github.com/dutifuldev/slophammer): Quality-gate and reference tooling for coding projects
+- 🧬 [**Schemator**](https://github.com/dutifuldev/schemator): Schema and data-model tooling for structured data
+- 🛡️ [**GitHub Sane Defaults**](https://github.com/dutifuldev/github-sane-defaults): Applies sane GitHub organization and repository defaults
+- 🪞 [**ghreplica**](https://github.com/dutifuldev/ghreplica): Local GitHub mirror server to avoid rate limits
+- 🗃️ [**xTap Sync**](https://github.com/dutifuldev/xtap-sync): Syncs xTap JSONL exports into a Git-backed tweet archive
+- 🔗 [**Claude MD Symlinker**](https://github.com/dutifuldev/claude-md-symlinker): Keeps `AGENTS.md` and `CLAUDE.md` in sync with symlinks
+- 🚨 [**Localpager**](https://github.com/osolmaz/localpager): Local-first triage and paging tool for GitHub issues and pull requests
+- 🤗 [**HuggingClaw**](https://github.com/osolmaz/huggingclaw): Deploy OpenClaw agents on Hugging Face
 <!-- sync:projects-oss-maintained:end -->
 
 ### Open source projects (unmaintained):
 
 <!-- sync:projects-oss-unmaintained:start -->
 - 🎤 [**Manim Voiceover**](https://github.com/manimcommunity/manim-voiceover): Plugin for programmatic voiceovers in [Manim](https://manim.community) videos
+- 🎬 [**Manim Euclid Elements**](https://github.com/osolmaz/manim-euclid-elements): Video rendering of Euclid's Elements using Manim
 - 🧠 [**icortex**](https://github.com/textcortex/icortex): A Jupyter notebook coding agent that I created 2 months before ChatGPT existed, using `code-davinci-002`
 - 📦 [**Claude Code Sandbox**](https://github.com/textcortex/claude-code-sandbox): A vibe-coded PoC for running Claude Code locally in a sandbox, and controlling through a browser UI
 <!-- sync:projects-oss-unmaintained:end -->
