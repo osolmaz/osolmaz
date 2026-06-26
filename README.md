@@ -31,7 +31,7 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🥔 [**Alman.AI**](https://alman.ai): Alman, a Simplified Dialect of the German Language
 - ✨ [**SimpleDoc**](https://github.com/osolmaz/SimpleDoc): Lightweight standard for organizing Markdown documentation in codebases
 - ⛳️ [**skillflag**](https://github.com/osolmaz/skillflag): Simple CLI flag convention for listing and installing agent skills
-- 🧰 [**localpi**](https://github.com/dutifuldev/localpi): Swiss army knife for running Pi with local inference engines such as llama.cpp, vLLM, SGLang, LM Studio, and Ollama
+- 🧰 [**localpi**](https://github.com/dutifuldev/localpi): Swiss army knife for running Pi with local inference engines such as llama.cpp, vLLM, SGLang, LM Studio, Ollama, etc.
 - 🏭 [**pi-factory**](https://github.com/dutifuldev/pi-factory): Declarative Pi application bundles
 - 📈 [**localperf**](https://github.com/dutifuldev/localperf): Local inference performance benchmarking and profiling
 - 🧭 [**ghzinga**](https://github.com/dutifuldev/ghzinga): Clickable terminal UI for viewing a GitHub issue or pull request
