@@ -42,7 +42,7 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🗃️ [**xTap Sync**](https://github.com/osolmaz/xtap-sync): Syncs xTap JSONL exports into a Git-backed tweet archive
 - 🔗 [**Claude MD Symlinker**](https://github.com/osolmaz/claude-md-symlinker): Keeps `AGENTS.md` and `CLAUDE.md` in sync with symlinks
 - 🚨 [**Localpager**](https://github.com/osolmaz/localpager): Local-first triage and paging tool for GitHub issues and pull requests
-- 🤗 [**HuggingClaw**](https://github.com/osolmaz/huggingclaw): Deploy OpenClaw agents on Hugging Face
+- 🤗 [**ML Claw**](https://github.com/huggingface/mlclaw): Deploy OpenClaw agents on Hugging Face
 <!-- sync:projects-oss-maintained:end -->
 
 ### Open source projects (unmaintained):
