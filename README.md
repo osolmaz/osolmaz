@@ -33,15 +33,8 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - ⛳️ [**skillflag**](https://github.com/osolmaz/skillflag): Simple CLI flag convention for listing and installing agent skills
 - 🧰 [**localpi**](https://github.com/osolmaz/localpi): Swiss army knife for running Pi with local inference engines such as llama.cpp, vLLM, SGLang, LM Studio, Ollama, etc.
 - 🏭 [**pi-factory**](https://github.com/osolmaz/pi-factory): Declarative Pi application bundles
-- 📈 [**localperf**](https://github.com/osolmaz/localperf): Local inference performance benchmarking and profiling
 - 🧭 [**ghzinga**](https://github.com/osolmaz/ghzinga): Clickable terminal UI for viewing a GitHub issue or pull request
 - 🔨 [**Slophammer**](https://github.com/osolmaz/slophammer): Quality-gate and reference tooling for coding projects
-- 🧬 [**Schemator**](https://github.com/osolmaz/schemator): Schema and data-model review CLI for agents
-- 🛡️ [**GitHub Sane Defaults**](https://github.com/osolmaz/github-sane-defaults): Applies sane GitHub organization and repository defaults
-- 🪞 [**ghreplica**](https://github.com/osolmaz/ghreplica): Local GitHub mirror server to avoid rate limits
-- 🗃️ [**xTap Sync**](https://github.com/osolmaz/xtap-sync): Syncs xTap JSONL exports into a Git-backed tweet archive
-- 🔗 [**Claude MD Symlinker**](https://github.com/osolmaz/claude-md-symlinker): Keeps `AGENTS.md` and `CLAUDE.md` in sync with symlinks
-- 🚨 [**Localpager**](https://github.com/osolmaz/localpager): Local-first triage and paging tool for GitHub issues and pull requests
 - 🤗 [**ML Claw**](https://github.com/huggingface/mlclaw): Deploy OpenClaw agents on Hugging Face
 <!-- sync:projects-oss-maintained:end -->
 
