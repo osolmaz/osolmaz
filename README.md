@@ -23,6 +23,7 @@ I am addicted to agents and I have too many side projects. You might get an idea
 <!-- sync:projects-oss-maintained:start -->
 - 🦞 [**OpenClaw**](https://github.com/openclaw/openclaw): I'm a maintainer of various features in the biggest personal agent project · ~400k ⭐
 - 📟 [**acpx**](https://github.com/openclaw/acpx): Headless CLI client for statful [ACP](https://agentclientprotocol.com/) sessions · ~3000 ⭐
+- 🎤 [**Manim Voiceover**](https://github.com/manimcommunity/manim-voiceover): Plugin for programmatic voiceovers in [Manim](https://manim.community) videos · ~300 ⭐
 - ⚙️ [**pi-workflows**](https://github.com/osolmaz/pi-workflows): Workflow engine, JSON control-flow tool, and live terminal viewer for the Pi coding agent · ~300 ⭐
 - 🧭 [**ghzinga**](https://github.com/osolmaz/ghzinga): Clickable terminal UI for viewing a GitHub issue or pull request · ~90 ⭐
 - 🏭 [**pi-factory**](https://github.com/osolmaz/pi-factory): Declarative Pi application bundles · ~40 ⭐
@@ -39,7 +40,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 ### Open source projects (unmaintained):
 
 <!-- sync:projects-oss-unmaintained:start -->
-- 🎤 [**Manim Voiceover**](https://github.com/manimcommunity/manim-voiceover): Plugin for programmatic voiceovers in [Manim](https://manim.community) videos · ~300 ⭐
 - 🍹 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers · ~100 ⭐
 - 🧠 [**icortex**](https://github.com/textcortex/icortex): A Jupyter notebook coding agent that I created 2 months before ChatGPT existed, using `code-davinci-002` · ~30 ⭐
 - 🎬 [**Manim Euclid Elements**](https://github.com/osolmaz/manim-euclid-elements): Video rendering of Euclid's Elements using Manim · ~20 ⭐
