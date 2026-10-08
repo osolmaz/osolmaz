@@ -40,7 +40,7 @@ BLOCK = re.compile(
     re.DOTALL,
 )
 GITHUB_REPO = re.compile(r"github\.com/([^/\s)]+)/([^/\s)#]+)")
-BADGE = re.compile(r"\s*· ~[\d.k]+ ⭐$")
+BADGE = re.compile(r"\s*·\s~[\d.k]+\s⭐$")
 
 
 def fetch_stars(full_name: str) -> int | None:
@@ -64,7 +64,7 @@ def badge_for(stars: int) -> str:
         text = f"~{approx // 1000}k"
     else:
         text = f"~{approx}"
-    return f" · {text} ⭐"
+    return f" ·\u00a0{text}\u00a0⭐"
 
 
 def render_line(line: str, stars: int | None) -> str:
