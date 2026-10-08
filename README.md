@@ -38,7 +38,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🎤 [**Manim Voiceover**](https://github.com/manimcommunity/manim-voiceover): Plugin for programmatic voiceovers in [Manim](https://manim.community) videos
 - 🎬 [**Manim Euclid Elements**](https://github.com/osolmaz/manim-euclid-elements): Video rendering of Euclid's Elements using Manim
 - 🧠 [**icortex**](https://github.com/textcortex/icortex): A Jupyter notebook coding agent that I created 2 months before ChatGPT existed, using `code-davinci-002`
-- 📦 [**Claude Code Sandbox**](https://github.com/textcortex/claude-code-sandbox): A vibe-coded PoC for running Claude Code locally in a sandbox, and controlling through a browser UI
 - 📄 [**JSON-DOC**](https://github.com/textcortex/JSON-DOC): Open block-based document file format based on Notion
 - 🍹 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers
 <!-- sync:projects-oss-unmaintained:end -->
