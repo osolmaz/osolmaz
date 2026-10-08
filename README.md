@@ -25,7 +25,7 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 📟 [**acpx**](https://github.com/openclaw/acpx): Headless CLI client for statful [ACP](https://agentclientprotocol.com/) sessions · ~3000 ⭐
 - ⚙️ [**pi-workflows**](https://github.com/osolmaz/pi-workflows): Workflow engine, JSON control-flow tool, and live terminal viewer for the Pi coding agent · ~300 ⭐
 - 🧭 [**ghzinga**](https://github.com/osolmaz/ghzinga): Clickable terminal UI for viewing a GitHub issue or pull request · ~90 ⭐
-- 🏭 [**pi-factory**](https://github.com/osolmaz/pi-factory): Declarative Pi application bundles
+- 🏭 [**pi-factory**](https://github.com/osolmaz/pi-factory): Declarative Pi application bundles · ~40 ⭐
 - 🔨 [**Slophammer**](https://github.com/osolmaz/slophammer): Quality-gate and reference tooling for coding projects · ~20 ⭐
 - 🔐 [**unyolo**](https://github.com/osolmaz/unyolo): Gives your agent safe access to your GitHub, Hugging Face, and other accounts · ~20 ⭐
 - 🧯 [**oomwrap**](https://github.com/osolmaz/oomwrap): Wraps commands that might cause out-of-memory errors and stops them before they freeze your machine · ~20 ⭐
