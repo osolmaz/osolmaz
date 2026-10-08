@@ -27,7 +27,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🍨 [**Scoop**](https://github.com/janitrai/scoop): Open personal news intelligence platform for OpenClaw
 - 📄 [**JSON-DOC**](https://github.com/textcortex/JSON-DOC): Open block-based document file format based on Notion
 - 🍹 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers
-- 🧹 [**Janitr**](https://github.com/osolmaz/janitr): Smol local models to filter out internet content for you
 - 🥔 [**Alman.AI**](https://alman.ai): Alman, a Simplified Dialect of the German Language
 - ✨ [**SimpleDoc**](https://github.com/osolmaz/SimpleDoc): Lightweight standard for organizing Markdown documentation in codebases
 - ⛳️ [**skillflag**](https://github.com/osolmaz/skillflag): Simple CLI flag convention for listing and installing agent skills
