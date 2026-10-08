@@ -30,7 +30,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🏭 [**pi-factory**](https://github.com/osolmaz/pi-factory): Declarative Pi application bundles
 - 🧭 [**ghzinga**](https://github.com/osolmaz/ghzinga): Clickable terminal UI for viewing a GitHub issue or pull request
 - 🔨 [**Slophammer**](https://github.com/osolmaz/slophammer): Quality-gate and reference tooling for coding projects
-- 🤗 [**ML Claw**](https://github.com/huggingface/mlclaw): Deploy OpenClaw agents on Hugging Face
 <!-- sync:projects-oss-maintained:end -->
 
 ### Open source projects (unmaintained):
