@@ -24,7 +24,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 <!-- sync:projects-oss-maintained:start -->
 - 📟 [**acpx**](https://github.com/openclaw/acpx): Headless CLI client for statful [ACP](https://agentclientprotocol.com/) sessions
 - 🦞 [**OpenClaw**](https://github.com/openclaw/openclaw): I'm a maintainer of various features in the biggest personal agent project
-- 🍨 [**Scoop**](https://github.com/janitrai/scoop): Open personal news intelligence platform for OpenClaw
 - 📄 [**JSON-DOC**](https://github.com/textcortex/JSON-DOC): Open block-based document file format based on Notion
 - 🍹 [**Spritz**](https://github.com/textcortex/spritz): Kubernetes‑native control plane for running AI agents in containers
 - ✨ [**SimpleDoc**](https://github.com/osolmaz/SimpleDoc): Lightweight standard for organizing Markdown documentation in codebases
