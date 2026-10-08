@@ -34,7 +34,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🧩 [**onurpi**](https://github.com/osolmaz/onurpi): Pi coding agent extensions and reproducible configuration
 - 🔐 [**unyolo**](https://github.com/osolmaz/unyolo): Gives your agent safe access to your GitHub, Hugging Face, and other accounts
 - 🧯 [**oomwrap**](https://github.com/osolmaz/oomwrap): Wraps commands that might cause out-of-memory errors and stops them before they freeze your machine
-- 🧪 [**ai-smell**](https://github.com/osolmaz/ai-smell): Stylometric study of AI writing tells, with the corpus, metrics, and detector behind the solmaz.io de-smeller post
 <!-- sync:projects-oss-maintained:end -->
 
 ### Open source projects (unmaintained):
