@@ -13,11 +13,6 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 😎 [**solmaz.io**](https://solmaz.io): My blog
 <!-- sync:projects-personal:end -->
 
-### Agents
-
-<!-- sync:agents:start -->
-<!-- sync:agents:end -->
-
 ### Open source projects (actively maintained):
 
 <!-- sync:projects-oss-maintained:start -->
