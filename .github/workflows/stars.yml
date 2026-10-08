@@ -1,0 +1,30 @@
+name: Refresh star counts
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/update_stars.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "docs(readme): refresh star counts [skip ci]"
+          title: "chore(readme): refresh star counts"
+          body: |
+            Automated weekly refresh of star-count badges and ordering by
+            `scripts/update_stars.py`.
+          branch: chore/star-count-refresh
+          delete-branch: true
+          add-paths: README.md
