@@ -25,9 +25,9 @@ I am addicted to agents and I have too many side projects. You might get an idea
 - 🔨 [**Slophammer**](https://github.com/osolmaz/slophammer): Quality-gate and reference tooling for coding projects · ~20 ⭐
 - 🔐 [**unyolo**](https://github.com/osolmaz/unyolo): Gives your agent safe access to your GitHub, Hugging Face, and other accounts · ~20 ⭐
 - 🧯 [**oomwrap**](https://github.com/osolmaz/oomwrap): Wraps commands that might cause out-of-memory errors and stops them before they freeze your machine · ~20 ⭐
+- 🧩 [**onurpi**](https://github.com/osolmaz/onurpi): Pi coding agent extensions and reproducible configuration · ~10 ⭐
 - 🧰 [**localpi**](https://github.com/osolmaz/localpi): Swiss army knife for running Pi with local inference engines such as llama.cpp, vLLM, SGLang, LM Studio, Ollama, etc. · ~10 ⭐
 - 🔍 [**pi-reviewer**](https://github.com/osolmaz/pi-reviewer): Standalone Pi code review CLI with prioritized findings · ~10 ⭐
-- 🧩 [**onurpi**](https://github.com/osolmaz/onurpi): Pi coding agent extensions and reproducible configuration · ~10 ⭐
 - ✨ [**SimpleDoc**](https://github.com/osolmaz/SimpleDoc): Lightweight standard for organizing Markdown documentation in codebases · ~8 ⭐
 - ⛳️ [**skillflag**](https://github.com/osolmaz/skillflag): Simple CLI flag convention for listing and installing agent skills · ~8 ⭐
 <!-- sync:projects-oss-maintained:end -->
